@@ -1,0 +1,47 @@
+C:\Users\LubTG\source\repos\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.AssemblyReference.cache
+C:\Users\LubTG\source\repos\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\LubTG\source\repos\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyForm.resources
+C:\Users\LubTG\source\repos\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.GenerateResource.cache
+C:\Users\LubTG\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.AssemblyReference.cache
+C:\Users\LubTG\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\LubTG\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyForm.resources
+C:\Users\LubTG\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.GenerateResource.cache
+C:\Users\LubTG\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyFormMenu.resources
+C:\Users\LubTG\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Instrucciones.resources
+C:\Users\LubTG\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Creditos.resources
+C:\Users\Flavia\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.AssemblyReference.cache
+C:\Users\Flavia\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Flavia\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Creditos.resources
+C:\Users\Flavia\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Instrucciones.resources
+C:\Users\Flavia\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyForm.resources
+C:\Users\Flavia\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyFormMenu.resources
+C:\Users\Flavia\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.GenerateResource.cache
+C:\Users\Flavia\Desktop\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyForm1.resources
+C:\UPC\Programación Verano\Taller Gonzalo\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.AssemblyReference.cache
+C:\UPC\Programación Verano\Taller Gonzalo\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.SuggestedBindingRedirects.cache
+C:\UPC\Programación Verano\Taller Gonzalo\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Creditos.resources
+C:\UPC\Programación Verano\Taller Gonzalo\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Instrucciones.resources
+C:\UPC\Programación Verano\Taller Gonzalo\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyForm.resources
+C:\UPC\Programación Verano\Taller Gonzalo\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyForm1.resources
+C:\UPC\Programación Verano\Taller Gonzalo\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyFormMenu.resources
+C:\UPC\Programación Verano\Taller Gonzalo\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.GenerateResource.cache
+C:\Users\Flavia\Documents\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.AssemblyReference.cache
+C:\Users\Flavia\Documents\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Flavia\Documents\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Creditos.resources
+C:\Users\Flavia\Documents\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Instrucciones.resources
+C:\Users\Flavia\Documents\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyForm.resources
+C:\Users\Flavia\Documents\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyForm1.resources
+C:\Users\Flavia\Documents\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyFormMenu.resources
+C:\Users\Flavia\Documents\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.GenerateResource.cache
+C:\Users\Flavia\Documents\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Ganaste.resources
+C:\Users\Flavia\Documents\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Perdiste.resources
+D:\TVisual\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.AssemblyReference.cache
+D:\TVisual\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.SuggestedBindingRedirects.cache
+D:\TVisual\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Creditos.resources
+D:\TVisual\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Ganaste.resources
+D:\TVisual\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Instrucciones.resources
+D:\TVisual\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyForm.resources
+D:\TVisual\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyForm1.resources
+D:\TVisual\MisionRescate\MisionRescate\x64\Debug\MisionRescate.MyFormMenu.resources
+D:\TVisual\MisionRescate\MisionRescate\x64\Debug\MisionRescate.Perdiste.resources
+D:\TVisual\MisionRescate\MisionRescate\x64\Debug\MisionRescate.vcxproj.GenerateResource.cache

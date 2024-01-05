@@ -1,0 +1,38 @@
+﻿  MisionRescate.cpp
+D:\TVisual\MisionRescate\MisionRescate\Salvavidas.h(49,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\TVisual\MisionRescate\MisionRescate\Animal.h(110,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(59,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\TVisual\MisionRescate\MisionRescate\MyForm.h(138,41): warning C4677: 'getControlador': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Controlador'
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(8): message : vea la declaración de 'Controlador'
+D:\TVisual\MisionRescate\MisionRescate\MyForm1.h(129,27): error C2039: "mostrar_ranking": no es un miembro de "Controlador"
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(8): message : vea la declaración de 'Controlador'
+D:\TVisual\MisionRescate\MisionRescate\MyForm1.h(136,27): error C2039: "mostrar_ranking": no es un miembro de "Controlador"
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(8): message : vea la declaración de 'Controlador'
+  MyForm.cpp
+D:\TVisual\MisionRescate\MisionRescate\Salvavidas.h(49,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\TVisual\MisionRescate\MisionRescate\Animal.h(110,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(59,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\TVisual\MisionRescate\MisionRescate\MyForm.h(138,41): warning C4677: 'getControlador': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Controlador'
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(8): message : vea la declaración de 'Controlador'
+  MyForm1.cpp
+D:\TVisual\MisionRescate\MisionRescate\Salvavidas.h(49,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\TVisual\MisionRescate\MisionRescate\Animal.h(110,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(59,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\TVisual\MisionRescate\MisionRescate\MyForm.h(138,41): warning C4677: 'getControlador': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Controlador'
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(8): message : vea la declaración de 'Controlador'
+D:\TVisual\MisionRescate\MisionRescate\MyForm1.h(129,27): error C2039: "mostrar_ranking": no es un miembro de "Controlador"
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(8): message : vea la declaración de 'Controlador'
+D:\TVisual\MisionRescate\MisionRescate\MyForm1.h(136,27): error C2039: "mostrar_ranking": no es un miembro de "Controlador"
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(8): message : vea la declaración de 'Controlador'
+  MyFormMenu.cpp
+D:\TVisual\MisionRescate\MisionRescate\Salvavidas.h(49,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\TVisual\MisionRescate\MisionRescate\Animal.h(110,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(59,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\TVisual\MisionRescate\MisionRescate\MyForm.h(138,41): warning C4677: 'getControlador': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Controlador'
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(8): message : vea la declaración de 'Controlador'
+D:\TVisual\MisionRescate\MisionRescate\MyForm1.h(129,27): error C2039: "mostrar_ranking": no es un miembro de "Controlador"
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(8): message : vea la declaración de 'Controlador'
+D:\TVisual\MisionRescate\MisionRescate\MyForm1.h(136,27): error C2039: "mostrar_ranking": no es un miembro de "Controlador"
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(8): message : vea la declaración de 'Controlador'
+  Generando código...
+D:\TVisual\MisionRescate\MisionRescate\Controlador.h(243): warning C4715: 'Controlador::Mover': no todas las rutas de acceso de control devuelven un valor

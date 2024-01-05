@@ -1,0 +1,11 @@
+/ -------------------- RANKING -------------------- /
+
+
+
+Tiempo: 109	Vidas: 0	Animales rescatados: 1	Nivel: 1	Resultado: PERDISTE con: 0 Puntos
+Tiempo: 63	Vidas: 0	Animales rescatados: 0	Nivel: 1	Resultado: PERDISTE con: 0 Puntos
+Tiempo: 56	Vidas: 1	Animales rescatados: 10	Nivel: 1	Resultado: GANASTE con: 66 Puntos
+Tiempo: 77	Vidas: 0	Animales rescatados: 0	Nivel: 1	Resultado: PERDISTE con: 0 Puntos
+Tiempo: 73	Vidas: 3	Animales rescatados: 10	Nivel: 1	Resultado: GANASTE con: 229 Puntos
+Tiempo: 66	Vidas: 3	Animales rescatados: 10	Nivel: 1	Resultado: GANASTE con: 208 Puntos
+Tiempo: 36	Vidas: 0	Animales rescatados: 8	Nivel: 2	Resultado: PERDISTE con: 0 Puntos
